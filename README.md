@@ -8,3 +8,4 @@ https://nbviewer.jupyter.org/github/CheesecakeMonoxide/poisson-as-limiting-binom
 The following exercise is an attempt to explore the Poisson probability distribution function as well as minor data clean-ups using pandas.
 
 Motivation for studying: I'm curious to know when the next big disaster caused by some tropical depression is about to happen in the Philippines.
+
