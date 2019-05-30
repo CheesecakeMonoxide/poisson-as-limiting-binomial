@@ -1,4 +1,4 @@
-<h2>Using the Poisson distribution to predict the next occurrence of a super typhoon in the Philippines</h2>
+<h2>Using Poisson distribution to predict the next occurrence of a super typhoon in the Philippines</h2>
 
 After learning that GitHub sometimes could not load jupyter notebooks for some reason, I am sharing the nbviewer link below for your convenience:
 
